@@ -1,4 +1,4 @@
-study "stairs_01" / bevy 0.16
+study artwork "stairs_01" / bevy 0.16
 
 ![screenshot.png](screenshot.png)
 
